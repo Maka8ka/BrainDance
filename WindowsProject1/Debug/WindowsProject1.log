@@ -1,0 +1,8 @@
+﻿E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(WindowsProject1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  DLLInject.cpp
+e:\cppworkspace\hookweixinls1\windowsproject1\windowsproject1\dllinject.cpp(140): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+e:\cppworkspace\hookweixinls1\windowsproject1\windowsproject1\dllinject.cpp(140): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HANDLE”
+e:\cppworkspace\hookweixinls1\windowsproject1\windowsproject1\dllinject.cpp(151): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+e:\cppworkspace\hookweixinls1\windowsproject1\windowsproject1\dllinject.cpp(151): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HANDLE”
+e:\cppworkspace\hookweixinls1\windowsproject1\windowsproject1\dllinject.cpp(158): warning C4477: “sprintf_s”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+  WindowsProject1.vcxproj -> E:\CppWorkSpace\HookWeiXinLs1\WindowsProject1\Debug\DLLInject.exe
